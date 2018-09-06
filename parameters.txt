@@ -1,0 +1,6 @@
+max_depth : 11
+min_child_weight : 2
+gamma : 0.0
+colsample_bytree : 0.9
+subsample : 0.95
+reg_alpha : 0.2
